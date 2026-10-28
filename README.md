@@ -25,7 +25,7 @@ Always learning, and happiest when the whole team gets stronger.
 
 ## Languages and tools
 
-<h4><img src="icons/palette.svg" width="20" height="20" alt=""> Frontend</h4>
+<h4><img src="icons/palette.svg" width="16" height="16" alt="" align="absmiddle"> Frontend</h4>
 <p>
   <img src="icons/react.svg" width="36" height="36" alt="React" title="React">&nbsp;&nbsp;&nbsp;
   <img src="icons/nextdotjs.svg" width="36" height="36" alt="Next.js" title="Next.js">&nbsp;&nbsp;&nbsp;
@@ -40,7 +40,7 @@ Always learning, and happiest when the whole team gets stronger.
   <img src="icons/wordpress.svg" width="36" height="36" alt="WordPress" title="WordPress">
 </p>
 
-<h4><img src="icons/server.svg" width="20" height="20" alt=""> Backend</h4>
+<h4><img src="icons/server.svg" width="16" height="16" alt="" align="absmiddle"> Backend</h4>
 <p>
   <img src="icons/nodedotjs.svg" width="36" height="36" alt="Node.js" title="Node.js">&nbsp;&nbsp;&nbsp;
   <img src="icons/express.svg" width="36" height="36" alt="Express" title="Express">&nbsp;&nbsp;&nbsp;
@@ -51,7 +51,7 @@ Always learning, and happiest when the whole team gets stronger.
   <img src="icons/oracle.svg" width="36" height="36" alt="Oracle" title="Oracle">
 </p>
 
-<h4><img src="icons/brain.svg" width="20" height="20" alt=""> AI</h4>
+<h4><img src="icons/brain.svg" width="16" height="16" alt="" align="absmiddle"> AI</h4>
 <p>
   <img src="icons/python.svg" width="36" height="36" alt="Python" title="Python">&nbsp;&nbsp;&nbsp;
   <img src="icons/claude.svg" width="36" height="36" alt="Claude Code" title="Claude Code">&nbsp;&nbsp;&nbsp;
@@ -60,7 +60,7 @@ Always learning, and happiest when the whole team gets stronger.
   <img src="icons/openai.svg" width="36" height="36" alt="ChatGPT" title="ChatGPT">
 </p>
 
-<h4><img src="icons/wrench.svg" width="20" height="20" alt=""> Other</h4>
+<h4><img src="icons/wrench.svg" width="16" height="16" alt="" align="absmiddle"> Other</h4>
 <p>
   <img src="icons/git.svg" width="36" height="36" alt="Git" title="Git">&nbsp;&nbsp;&nbsp;
   <img src="icons/docker.svg" width="36" height="36" alt="Docker" title="Docker">
