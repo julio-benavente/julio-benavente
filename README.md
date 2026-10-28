@@ -18,7 +18,7 @@ Always learning, and happiest when the whole team gets stronger.
 
 <p>
   <a href="https://juliobenavente.com"><img src="icons/globe.svg" width="32" height="32" alt="Portfolio" title="Portfolio"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/julio-benavente-504ba9119/"><img src="icons/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/julio-benavente"><img src="icons/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/julio-benavente"><img src="icons/github.svg" width="32" height="32" alt="GitHub" title="GitHub"></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:julio.benavente.02@gmail.com"><img src="icons/mail.svg" width="32" height="32" alt="Email" title="Email"></a>
 </p>
