@@ -14,4 +14,54 @@ Before that I built websites at Square Agency, full stack registration APIs with
 
 Always learning, and happiest when the whole team gets stronger.
 
-🌐 Portfolio: [juliobenavente.com](https://juliobenavente.com)
+## Connect with me
+
+<p>
+  <a href="https://juliobenavente.com"><img src="icons/globe.svg" width="32" height="32" alt="Portfolio" title="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/julio-benavente-504ba9119/"><img src="icons/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn"></a>
+  <a href="https://github.com/julio-benavente"><img src="icons/github.svg" width="32" height="32" alt="GitHub" title="GitHub"></a>
+  <a href="mailto:julio.benavente.02@gmail.com"><img src="icons/mail.svg" width="32" height="32" alt="Email" title="Email"></a>
+</p>
+
+## Languages and tools
+
+<h4><img src="icons/palette.svg" width="20" height="20" alt=""> Frontend</h4>
+<p>
+  <img src="icons/react.svg" width="36" height="36" alt="React" title="React">
+  <img src="icons/nextdotjs.svg" width="36" height="36" alt="Next.js" title="Next.js">
+  <img src="icons/typescript.svg" width="36" height="36" alt="TypeScript" title="TypeScript">
+  <img src="icons/javascript.svg" width="36" height="36" alt="JavaScript" title="JavaScript">
+  <img src="icons/redux.svg" width="36" height="36" alt="Redux" title="Redux">
+  <img src="icons/tailwindcss.svg" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS">
+  <img src="icons/html5.svg" width="36" height="36" alt="HTML" title="HTML">
+  <img src="icons/css3.svg" width="36" height="36" alt="CSS" title="CSS">
+  <img src="icons/mui.svg" width="36" height="36" alt="Material UI" title="Material UI">
+  <img src="icons/styledcomponents.svg" width="36" height="36" alt="Styled Components" title="Styled Components">
+  <img src="icons/wordpress.svg" width="36" height="36" alt="WordPress" title="WordPress">
+</p>
+
+<h4><img src="icons/server.svg" width="20" height="20" alt=""> Backend</h4>
+<p>
+  <img src="icons/nodedotjs.svg" width="36" height="36" alt="Node.js" title="Node.js">
+  <img src="icons/express.svg" width="36" height="36" alt="Express" title="Express">
+  <img src="icons/laravel.svg" width="36" height="36" alt="Laravel" title="Laravel">
+  <img src="icons/php.svg" width="36" height="36" alt="PHP" title="PHP">
+  <img src="icons/mongodb.svg" width="36" height="36" alt="MongoDB" title="MongoDB">
+  <img src="icons/mysql.svg" width="36" height="36" alt="MySQL" title="MySQL">
+  <img src="icons/oracle.svg" width="36" height="36" alt="Oracle" title="Oracle">
+</p>
+
+<h4><img src="icons/brain.svg" width="20" height="20" alt=""> AI</h4>
+<p>
+  <img src="icons/python.svg" width="36" height="36" alt="Python" title="Python">
+  <img src="icons/claude.svg" width="36" height="36" alt="Claude Code" title="Claude Code">
+  <img src="icons/githubcopilot.svg" width="36" height="36" alt="GitHub Copilot" title="GitHub Copilot">
+  <img src="icons/cursor.svg" width="36" height="36" alt="Cursor" title="Cursor">
+  <img src="icons/openai.svg" width="36" height="36" alt="ChatGPT" title="ChatGPT">
+</p>
+
+<h4><img src="icons/wrench.svg" width="20" height="20" alt=""> Other</h4>
+<p>
+  <img src="icons/git.svg" width="36" height="36" alt="Git" title="Git">
+  <img src="icons/docker.svg" width="36" height="36" alt="Docker" title="Docker">
+</p>
