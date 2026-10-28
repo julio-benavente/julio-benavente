@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.png">
+  <img alt="Julio Benavente, software engineer" src="banner-dark.png" width="100%">
+</picture>
+
 ### Hi there, I'm Julio 👋 💻
 
 ## I'm a Software Engineer
