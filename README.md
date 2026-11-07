@@ -6,7 +6,7 @@ Senior Software Engineer with 5+ years of experience in React, Next.js and TypeS
 
 ## What I do
 
-Today I'm at **Fusion 360**, where I'm in charge of the frontend and backend applications and decide how the product gets built. I strive to build reliable and user-friendly software that makes the product more mature and helps the business grow.
+Today I'm at Fusion 360, where I'm in charge of the frontend and backend applications and decide how the product gets built. I strive to build reliable and user-friendly software that makes the product more mature and helps the business grow.
 
 For me, creating software is more than writing code, especially since I use AI. When a tool can help write the code, my value is in knowing which system to build, why it matters, and how it affects the product and the business. That's also why I'm doing an M.S. in AI and Machine Learning: I like understanding how this stuff really works, and next I want to build AI features into the products I work on.
 
