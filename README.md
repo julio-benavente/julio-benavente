@@ -6,7 +6,7 @@ Senior Software Engineer with 5+ years of experience in React, Next.js and TypeS
 
 ## What I do
 
-Today I lead frontend at **Fusion 360**, where I own the UI system, the API integrations and the features that move the funnel for a marketing platform built in TypeScript, Next.js and Tailwind. What I do best is build applications that people actually use and that matter to the business.
+Today I'm at **Fusion 360**, where I'm in charge of the frontend and backend applications. I strive to build reliable and user-friendly software that makes the product more mature and helps the business grow.
 
 For me, creating software is more than writing code, especially since I use AI. When a tool can help write the code, my value is in knowing which system to build, why it matters, and how it affects the product and the business. That's also why I'm doing an M.S. in AI and Machine Learning: I like understanding how this stuff really works, and next I want to build AI features into the products I work on.
 
