@@ -1,8 +1,8 @@
 # Julio Benavente
 
-**Senior React Developer** · Next.js · TypeScript
+**Senior Software Engineer** · React · Next.js · TypeScript
 
-Senior React Developer with 5+ years of experience. I've worked in different industries: marketing, finance and data. What I do best is build applications that people actually use and that matter to the business.
+Senior Software Engineer with 5+ years of experience. I've worked in different industries: marketing, finance and data. What I do best is build applications that people actually use and that matter to the business.
 
 For me, creating software is more than writing code. Now, with AI helping to write it, what matters even more is understanding the systems behind the code: how the pieces fit together, and how they shape the product and the business.
 
