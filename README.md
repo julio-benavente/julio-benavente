@@ -6,13 +6,29 @@
 
 ### Hi there, I'm Julio 👋 💻
 
-## I'm a Software Engineer
+## I'm a Senior Frontend Engineer
 
 I ship production products with React and Next.js, think beyond the deadline, and speak up early when a decision will cost us later. I'm currently leading frontend at Fusion 360, building a marketing platform in TypeScript, Next.js and Tailwind CSS.
 
 Before that I built websites at Square Agency, full stack registration APIs with face and ID verification at Solera, and client dashboards at GCC Networking. I hold a B.S. in Computer Science from Western Governors University (2026) and I'm working toward an M.S. in Artificial Intelligence and Machine Learning (expected 2027).
 
 Always learning, and happiest when the whole team gets stronger.
+
+## Featured projects
+
+| Project | What it is | Built with |
+|---|---|---|
+| [Karaoke Tube](https://karaokeetube.com) | Karaoke parties where everyone's phone is the remote. Free, no install, English and Spanish. [Code](https://github.com/julio-benavente/karaoke-tube) | React, Hono, Cloudflare Workers, Durable Objects, WebSockets |
+| [Mappe](https://www.juliobenavente.com/projects/mappe) | A personalized digital planner that fits your life. Coming soon. | Next.js, React, react-pdf, Vercel AI SDK |
+
+## Writing
+
+Practical React articles at [juliobenavente.com/blog](https://www.juliobenavente.com/blog):
+
+- [You might not need useEffect: 5 patterns to delete](https://www.juliobenavente.com/blog/you-might-not-need-useeffect)
+- [React Server Components, explained without the hype](https://www.juliobenavente.com/blog/react-server-components-explained)
+- [What INP measures, and how to improve it in React](https://www.juliobenavente.com/blog/improve-inp-in-react)
+- [Accessible React components: focus, keyboard, live regions and motion](https://www.juliobenavente.com/blog/accessible-react-components)
 
 ## Connect with me
 
