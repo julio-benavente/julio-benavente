@@ -1,83 +1,30 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-light.webp">
-  <source media="(prefers-color-scheme: light)" srcset="banner-charcoal.webp">
-  <img alt="Julio Benavente, software engineer" src="banner-charcoal.webp" width="100%">
-</picture>
+# Julio Benavente
 
-### Hi there, I'm Julio 👋 💻
+**Senior Frontend Engineer** · React · Next.js · TypeScript
 
-## I'm a Senior Frontend Engineer
+Senior Frontend Engineer with 5+ years building web applications in React, Next.js and TypeScript: marketing platforms, client dashboards and registration flows.
 
-I ship production products with React and Next.js, think beyond the deadline, and speak up early when a decision will cost us later. I'm currently leading frontend at Fusion 360, building a marketing platform in TypeScript, Next.js and Tailwind CSS.
+## What I do
 
-Before that I built websites at Square Agency, full stack registration APIs with face and ID verification at Solera, and client dashboards at GCC Networking. I hold a B.S. in Computer Science from Western Governors University (2026) and I'm working toward an M.S. in Artificial Intelligence and Machine Learning (expected 2027).
+I started in 2021 at **GCC Networking**, building React dashboards so clients could look up their own data instead of contacting support. In 2022 I moved to **Solera**, where I built a reusable component toolkit with Storybook and the sign-up APIs behind it, including face and ID verification. After a year freelancing at **Square Agency**, turning Figma designs into fast Next.js landing pages, I joined **Fusion 360**. Today I lead frontend for its marketing platform: the UI system, the API integrations and the features that move the funnel, all in TypeScript, Next.js and Tailwind.
 
-Always learning, and happiest when the whole team gets stronger.
+## AI
 
-## Featured projects
+I use Claude Code and T3 Code every day, and I'm doing an M.S. in AI and Machine Learning because I like understanding how this stuff really works. Next step: building AI features into the products I work on.
 
-| Project | What it is | Built with |
-|---|---|---|
-| [Karaoke Tube](https://karaokeetube.com) | Karaoke parties where everyone's phone is the remote. Free, no install, English and Spanish. [Code](https://github.com/julio-benavente/karaoke-tube) | React, Hono, Cloudflare Workers, Durable Objects, WebSockets |
-| [Mappe](https://www.juliobenavente.com/projects/mappe) | A personalized digital planner that fits your life. Coming soon. | Next.js, React, react-pdf, Vercel AI SDK |
+## Projects
+
+- **[Karaoke Tube](https://karaokeetube.com)**: karaoke parties where everyone's phone is the remote. React, Hono, Cloudflare Workers. [Code](https://github.com/julio-benavente/karaoke-tube)
+- **[Mappe](https://www.juliobenavente.com/projects/mappe)**: a personalized digital planner. Coming soon.
 
 ## Writing
 
-Practical React articles at [juliobenavente.com/blog](https://www.juliobenavente.com/blog):
+Practical React articles at [juliobenavente.com/blog](https://www.juliobenavente.com/blog), including [You might not need useEffect](https://www.juliobenavente.com/blog/you-might-not-need-useeffect) and [What INP measures](https://www.juliobenavente.com/blog/improve-inp-in-react).
 
-- [You might not need useEffect: 5 patterns to delete](https://www.juliobenavente.com/blog/you-might-not-need-useeffect)
-- [React Server Components, explained without the hype](https://www.juliobenavente.com/blog/react-server-components-explained)
-- [What INP measures, and how to improve it in React](https://www.juliobenavente.com/blog/improve-inp-in-react)
-- [Accessible React components: focus, keyboard, live regions and motion](https://www.juliobenavente.com/blog/accessible-react-components)
+## Stack
 
-## Connect with me
+**Frontend:** React, Next.js, TypeScript, Redux, Tailwind CSS, Material UI
+**Backend:** Node.js, Express, Laravel, MongoDB, SQL
+**Tools:** Git, Docker, Storybook, Figma
 
-<p>
-  <a href="https://juliobenavente.com"><img src="icons/globe.svg" width="32" height="32" alt="Portfolio" title="Portfolio"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/julio-benavente"><img src="icons/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/julio-benavente"><img src="icons/github.svg" width="32" height="32" alt="GitHub" title="GitHub"></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:julio.benavente.02@gmail.com"><img src="icons/mail.svg" width="32" height="32" alt="Email" title="Email"></a>
-</p>
-
-## Languages and tools
-
-<h4><img src="icons/palette.svg" width="16" height="16" alt="" align="absmiddle"> Frontend</h4>
-<p>
-  <img src="icons/react.svg" width="36" height="36" alt="React" title="React">&nbsp;&nbsp;&nbsp;
-  <img src="icons/nextdotjs.svg" width="36" height="36" alt="Next.js" title="Next.js">&nbsp;&nbsp;&nbsp;
-  <img src="icons/typescript.svg" width="36" height="36" alt="TypeScript" title="TypeScript">&nbsp;&nbsp;&nbsp;
-  <img src="icons/javascript.svg" width="36" height="36" alt="JavaScript" title="JavaScript">&nbsp;&nbsp;&nbsp;
-  <img src="icons/redux.svg" width="36" height="36" alt="Redux" title="Redux">&nbsp;&nbsp;&nbsp;
-  <img src="icons/tailwindcss.svg" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS">&nbsp;&nbsp;&nbsp;
-  <img src="icons/html5.svg" width="36" height="36" alt="HTML" title="HTML">&nbsp;&nbsp;&nbsp;
-  <img src="icons/css3.svg" width="36" height="36" alt="CSS" title="CSS">&nbsp;&nbsp;&nbsp;
-  <img src="icons/mui.svg" width="36" height="36" alt="Material UI" title="Material UI">&nbsp;&nbsp;&nbsp;
-  <img src="icons/styledcomponents.svg" width="36" height="36" alt="Styled Components" title="Styled Components">&nbsp;&nbsp;&nbsp;
-  <img src="icons/wordpress.svg" width="36" height="36" alt="WordPress" title="WordPress">
-</p>
-
-<h4><img src="icons/server.svg" width="16" height="16" alt="" align="absmiddle"> Backend</h4>
-<p>
-  <img src="icons/nodedotjs.svg" width="36" height="36" alt="Node.js" title="Node.js">&nbsp;&nbsp;&nbsp;
-  <img src="icons/express.svg" width="36" height="36" alt="Express" title="Express">&nbsp;&nbsp;&nbsp;
-  <img src="icons/laravel.svg" width="36" height="36" alt="Laravel" title="Laravel">&nbsp;&nbsp;&nbsp;
-  <img src="icons/php.svg" width="36" height="36" alt="PHP" title="PHP">&nbsp;&nbsp;&nbsp;
-  <img src="icons/mongodb.svg" width="36" height="36" alt="MongoDB" title="MongoDB">&nbsp;&nbsp;&nbsp;
-  <img src="icons/mysql.svg" width="36" height="36" alt="MySQL" title="MySQL">&nbsp;&nbsp;&nbsp;
-  <img src="icons/oracle.svg" width="36" height="36" alt="Oracle" title="Oracle">
-</p>
-
-<h4><img src="icons/brain.svg" width="16" height="16" alt="" align="absmiddle"> AI</h4>
-<p>
-  <img src="icons/python.svg" width="36" height="36" alt="Python" title="Python">&nbsp;&nbsp;&nbsp;
-  <img src="icons/claude.svg" width="36" height="36" alt="Claude Code" title="Claude Code">&nbsp;&nbsp;&nbsp;
-  <img src="icons/githubcopilot.svg" width="36" height="36" alt="GitHub Copilot" title="GitHub Copilot">&nbsp;&nbsp;&nbsp;
-  <img src="icons/cursor.svg" width="36" height="36" alt="Cursor" title="Cursor">&nbsp;&nbsp;&nbsp;
-  <img src="icons/openai.svg" width="36" height="36" alt="ChatGPT" title="ChatGPT">
-</p>
-
-<h4><img src="icons/wrench.svg" width="16" height="16" alt="" align="absmiddle"> Other</h4>
-<p>
-  <img src="icons/git.svg" width="36" height="36" alt="Git" title="Git">&nbsp;&nbsp;&nbsp;
-  <img src="icons/docker.svg" width="36" height="36" alt="Docker" title="Docker">
-</p>
+[Website](https://www.juliobenavente.com) · [LinkedIn](https://www.linkedin.com/in/julio-benavente/)
